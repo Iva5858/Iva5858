@@ -13,35 +13,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Isaac Vélez Aguirre
+### Hi, I'm Isaac 👋
 
-Data Science & Business Analytics · Incoming MSAI @ Columbia University · Berlin, Germany  
-[isaac-velez.com](https://isaac-velez.com) · [LinkedIn](https://linkedin.com/in/isaac-velez)
+I'm a MSAI candidate at Columbia University (Robotics & Perception), graduating Dec 2027.
+Previously: 
+- BSc Data Science & Business Analytics, University of London, (designed and evaluated by the LSE), June 2026.
+- BSST Business & Leadership, Forward College, June 2026.
 
----
+I have experience at small and big companies in software engineering, data science and AI across multiple industries. I'm currently looking for Summer 2027 internships.
 
-I'm a Colombian-Spanish student finishing a BSc in Data Science at the University of London (LSE-designed), heading to Columbia for an MS in AI in Fall 2026. I'm always building something, so this readme might not reflect my current status.
+**Currently building**
+- 🔎 [Vera](https://askvera.org) — free AI powered fact-checking service (LaReponse.Tech) — volunteer contributing AI engineer
+- 📄 Research assistant for studying whether LLMs can recover human judgments of creative originality, for AI-assisted curation
 
-Currently building a [stock market prediction framework](https://github.com/Iva5858/stock_model_tester) that benchmarks 24 algorithms with walk-forward cross-validation and backtesting. Also the founder of [Project NoCap](https://projectnocap.org), an AI-powered fact-checking tool for Instagram.
+**Toolbox:** Python · R · SQL · PyTorch · scikit-learn · XGBoost · Pandas · NumPy · GCP · and some more...
 
-Past experience: AI/Data Science Intern at Opplane, Founding Data Scientist at Autsai.
-
----
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Iva5858&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iva5858&layout=compact&theme=default&hide_border=true" height="150" />
-</p>
+📍 New York, NY · [isaac-velez.com](https://isaac-velez.com) · [LinkedIn](https://www.linkedin.com/in/isaac-velez)
