@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 ### Hi, I'm Isaac 👋
 
 I'm a MSAI candidate at Columbia University (Robotics & Perception), graduating Dec 2027.
+
 Previously: 
 - BSc Data Science & Business Analytics, University of London, (designed and evaluated by the LSE), June 2026.
 - BSST Business & Leadership, Forward College, June 2026.
