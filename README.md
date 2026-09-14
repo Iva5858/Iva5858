@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi, I'm Isaac 👋
+### Hi, I'm Isaac Velez 👋
 
 I'm a MSAI candidate at Columbia University (Robotics & Perception), graduating Dec 2027.
 
