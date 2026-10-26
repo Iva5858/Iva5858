@@ -31,7 +31,9 @@ I have experience at small and big companies in software engineering, data scien
 
 **Currently building**
 - 🔎 [Vera](https://askvera.org) — free AI powered fact-checking service (LaReponse.Tech) — volunteer contributing AI engineer
-- 🤖 [Juan](https://github.com/Iva5858/juan_learns_to_walk) — 8DOF bipedal robot I built and trained in simulation (MuJoCo - PPO) to walk, turn and recover from pushes on cheap hobby servos (RL, sim-to-real)
+- 🤖 [Juan](https://github.com/Iva5858/juan_learns_to_walk) — 8DOF bipedal robot I built and trained in simulation (MuJoCo - PPO) to walk, turn and recover from pushes on cheap hobby servos (RL, sim-to-real) <img src="https://raw.githubusercontent.com/Iva5858/Iva5858/main/juan_first_steps_small.gif" width="480" alt="Juan's first steps">
+
+
 
 
 ---
