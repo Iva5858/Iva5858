@@ -31,7 +31,8 @@ I have experience at small and big companies in software engineering, data scien
 
 **Currently building**
 - 🔎 [Vera](https://askvera.org) — free AI powered fact-checking service (LaReponse.Tech) — volunteer contributing AI engineer
-- 📄 Research assistant for studying whether LLMs can recover human judgments of creative originality, for AI-assisted curation
+- - 🤖 [Juan](https://github.com/Iva5858/juan_learns_to_walk) — robot I built and trained in simulation (MuJoCo - PPO) to walk, turn and recover from pushes on cheap hobby servos (RL, sim-to-real)
+
 
 ---
 
